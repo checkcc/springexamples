@@ -26,7 +26,7 @@ public class A {
 
 	void print() {
 
-		System.out.println(" print() from A");
+		System.out.println(" print() from A and print");
 	}
 
 // this method is belog for class A
